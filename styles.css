@@ -1,0 +1,25 @@
+h1 {
+    margin-bottom: 5px;
+}
+
+div {
+    padding: 0px;
+    margin-bottom: 20px;
+    font-family: Arial;
+    font-weight: 500;
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 25px;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+.textleft {
+    margin-left: 50px;
+}
+
+label {
+    color: blue;
+}
